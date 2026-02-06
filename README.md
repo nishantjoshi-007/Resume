@@ -1,4 +1,4 @@
-# Resume
+# Nishant Joshi's Resume
 
 A clean, modern static webpage that automatically redirects visitors to your resume PDF.
 
